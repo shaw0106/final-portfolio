@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <!-- The <loc> tag is the only one that’s required. -->
+    <loc>https://shannonshaw.design</loc>
+    <!-- OPTIONAL: Priority will default to 0.5 but can go up to 1.0. -->
+    <priority>1.0</priority>
+    <!-- OPTIONAL: Must be in this format -->
+    <lastmod>2016-10-22</lastmod>
+    <!-- OPTIONAL: can be always, hourly, daily, weekly, monthly, yearly, never -->
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- If you want to add another page, add another <url> tag -->
+  <url>
+    <loc>https://shannonshaw.design/alien</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/hedge</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/home</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/mag</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/magnify</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/phonebooth</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/</loc>
+  </url>
+</urlset>
