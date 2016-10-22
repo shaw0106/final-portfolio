@@ -14,24 +14,41 @@
 
   <!-- If you want to add another page, add another <url> tag -->
   <url>
-    <loc>https://shannonshaw.design/alien</loc>
+    <loc>https://shannonshaw.design/alien-poster-design</loc>
   </url>
   <url>
-    <loc>https://shannonshaw.design/hedge</loc>
+    <loc>https://shannonshaw.design/hedgecetera-branding</loc>
   </url>
   <url>
-    <loc>https://shannonshaw.design/home</loc>
+    <loc>https://shannonshaw.design/custom-illustration</loc>
   </url>
   <url>
-    <loc>https://shannonshaw.design/mag</loc>
+    <loc>https://shannonshaw.design/cooking-magazine-spread</loc>
   </url>
   <url>
-    <loc>https://shannonshaw.design/magnify</loc>
+    <loc>https://shannonshaw.design/magnify-app</loc>
   </url>
   <url>
-    <loc>https://shannonshaw.design/phonebooth</loc>
+    <loc>https://shannonshaw.design/3d-layer-motion</loc>
   </url>
   <url>
-    <loc>https://shannonshaw.design/</loc>
+    <loc>https://shannonshaw.design/ruby-app</loc>
   </url>
+
+  <url>
+    <loc>https://shannonshaw.design/theft-infographic</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/stratsmart</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/smart-path-saas</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/sketchmag</loc>
+  </url>
+  <url>
+    <loc>https://shannonshaw.design/sketchalien</loc>
+  </url>
+
 </urlset>
