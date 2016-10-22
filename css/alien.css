@@ -82,9 +82,9 @@ html, body {
 }
 
 .button1:hover {
-    background-color: turquoise;
+    background-color: #0a2739;
     color: white;
-    border: 2px solid white;
+    border: 2px solid #0a2739;
 }
 
 .onfoot {
