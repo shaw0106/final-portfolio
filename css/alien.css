@@ -99,7 +99,6 @@ html, body {
 }
 
 .onfoot {
-  top: 650px;
   position: fixed;
   left: 70px;
   z-index: 4;
