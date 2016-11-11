@@ -197,11 +197,12 @@ a:hover {
 
 .all-right {
   width: 100%;
+  padding-bottom: 20px;
 }
 
 .img-lg {
   width: 100%;
-  padding: 70px 0 0 900px;
+  padding: 70px 70px 70px 900px;
 }
 /*--------------------------------------------------------------lightbox----*/
 
