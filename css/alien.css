@@ -196,18 +196,13 @@ a:hover {
 /*--------------------------------------------------------------image grid----*/
 
 .all-right {
-  width: 60%;
+  width: 100%;
 }
 
 .img-lg {
-  background-color: white;
-  width: 90%;
-  max-width: 700px;
-  padding: 60px 0 95px 200px;
+  width: 100%;
+  padding: 70px 0 0 900px;
 }
-
-
-
 /*--------------------------------------------------------------lightbox----*/
 
 .button1 {

@@ -79,7 +79,14 @@ html, body {
   line-height: 2em;
 }
 
+.all-right {
+  width: 100%;
+}
 
+.img-lg {
+  width: 100%;
+  padding: 70px 0 0 900px;
+}
 
 /*--------------------------------------------------------------social media--*/
 
@@ -357,10 +364,8 @@ footer {
 .all-right {
   width: 100%;
   position: relative;
-}
-
-.onfoot {
-  display: none;
+  padding: 0;
+  margin: 0;
 }
 
 .grid--item {
