@@ -300,10 +300,10 @@ h2:before, h2:after {
 }
 
 .onfoot {
-  top: 650px;
-  position: fixed;
+  bottom: 10px;
   left: 70px;
   z-index: 4;
+  position: fixed;
 }
 /*--------------------------------------------------------------break points----*/
 
