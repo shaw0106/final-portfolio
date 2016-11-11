@@ -175,10 +175,10 @@ a:hover {
   top: -9999px;
 }
 
-/*--------------------------------------------------------------image grid----*/
+/*--------------------------------------------------------------video----*/
 
 .all-right {
-  width: 60%;
+  width: 100%;
 }
 
 .vid {
@@ -188,122 +188,36 @@ a:hover {
   display: none;
 }
 
-/*--------------------------------------------------------------lightbox----*/
-
-
-
 /*--------------------------------------------------------------break points----*/
 
 @media only screen and (min-width: 0px) and (max-width: 430px) {
-.logo {
-  position: relative;
-  left: 20px;
-  top: 20px;
-}
 
-.name {
-  font-size: 2em;
-  width: 100%;
-  position: relative;
-  left: 20px;
-  top: 30px;
-}
-
-.bar {
-  position: relative;
-  left: 20px;
+.all-right {
   top: 10px;
 }
 
-.soon {
-  width: 90%;
-  position: relative;
-  left: 20px;
-  padding-bottom: 10px;
-  margin: 0;
-  top: 50px;
-}
-
-body {
-  background-color: white;
-}
-
-footer {
-   position: fixed;
-   left: 0px;
-   bottom: 0px;
-   height: 60px;
-   width: 100%;
-   background: turquoise;
-}
-
-.all-left {
-  clear: both;
-}
-
-.all-right {
-  width: 100%;
-  position: relative;
-  top: 160px;
-}
-
 .vid {
-  left: 20px;
+  display: none;
+}
+
+.vid-sm {
+  display: block;
+  padding: 10px 10px 70px 20px;
 }
     }
 
-    @media only screen and (min-width: 427px) and (max-width: 700px) {
-    .logo {
-      position: relative;
-      left: 20px;
-      top: 20px;
-    }
-
-    .name {
-      font-size: 2em;
-      width: 100%;
-      position: relative;
-      left: 20px;
-      top: 30px;
-    }
-
-    .bar {
-      position: relative;
-      left: 20px;
-      top: 10px;
-    }
-
-    .soon {
-      width: 80%;
-      position: relative;
-      left: 20px;
-      padding-bottom: 10px;
-      margin: 0;
-      top: 50px;
-    }
-
-    body {
-      background-color: white;
-    }
-
-    footer {
-       position: fixed;
-       left: 0px;
-       bottom: 0px;
-       height: 70px;
-       width: 100%;
-       background: turquoise;
-       margin: auto;
-    }
+@media only screen and (min-width: 427px) and (max-width: 700px) {
 
     .all-right {
       width: 100%;
       position: relative;
-      padding-bottom: 50px;
+      padding-bottom: 10px;
     }
+
     .vid {
       display: none;
     }
+
     .vid-sm {
       display: block;
       padding: 10px 10px 70px 20px;
@@ -311,18 +225,6 @@ footer {
 }
 
 @media only screen and (min-width: 700px) and (max-width: 1000px) {
-  footer {
-     position: fixed;
-     left: 0px;
-     bottom: 0px;
-     width: 100%;
-     background: turquoise;
-     height: 70px;
-  }
-
-  .soon {
-    width: 50%;
-  }
 
   .all-right {
     width: 100%;
@@ -334,22 +236,6 @@ footer {
 }
 
 @media only screen and (min-width: 1000px) and (max-width: 2000px) {
-  footer {
-     position: fixed;
-     left: 0px;
-     bottom: 0px;
-     width: 100%;
-     background: turquoise;
-     height: 70px;
-  }
-
-  .soon {
-    width: 25%;
-  }
-
-.all-left {
-  float: left;
-}
 
   .all-right {
     width: 70%;
@@ -359,32 +245,7 @@ footer {
   }
 }
 
-
 @media only screen and (min-width: 2000px) and (max-width: 4000px) {
-  footer {
-     position: fixed;
-     left: 0px;
-     bottom: 0px;
-     width: 100%;
-     background: turquoise;
-     height: 70px;
-  }
-
-.name {
-  top: 20%;
-}
-
-.bar {
-  top: 30%;
-}
-  .soon {
-    top: 32%;
-    width: 30%;
-  }
-
-.all-left {
-  float: left;
-}
 
   .all-right {
     width: 70%;
