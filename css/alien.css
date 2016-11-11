@@ -81,28 +81,7 @@ html, body {
 }
 /*---------------------------------------------------social media and footer--*/
 
-.button1 {
-    background-color: turquoise;
-    color: #0a2739;
-    border: 2px solid #0a2739;
-    border-radius: 2px;
-    padding: 10px 20px;
-    font-size: 1em;
-    letter-spacing: 1.5px;
-    font-family: 'Bitter', serif;
-}
 
-.button1:hover {
-    background-color: #0a2739;
-    color: white;
-    border: 2px solid #0a2739;
-}
-
-.onfoot {
-  position: fixed;
-  left: 70px;
-  z-index: 4;
-}
 
 /*-----------------------*/
 
@@ -209,7 +188,28 @@ a:hover {
 
 /*--------------------------------------------------------------lightbox----*/
 
+.button1 {
+    background-color: turquoise;
+    color: #0a2739;
+    border: 2px solid #0a2739;
+    border-radius: 2px;
+    padding: 10px 20px;
+    font-size: 1em;
+    letter-spacing: 1.5px;
+    font-family: 'Bitter', serif;
+}
 
+.button1:hover {
+    background-color: #0a2739;
+    color: white;
+    border: 2px solid #0a2739;
+}
+
+.onfoot {
+  position: fixed;
+  left: 70px;
+  z-index: 4;
+}
 
 /*--------------------------------------------------------------break points----*/
 
@@ -316,11 +316,10 @@ footer {
       padding: 25% 5% 0 5%;
     }
 
-<<<<<<< HEAD
-=======
     .img-lg {
       padding: 5px 15px 65px 15px;
     }
+
     .button1 {
         background-color: turquoise;
         color: #0a2739;
@@ -342,8 +341,6 @@ footer {
       position: fixed;
       z-index: 4;
     }
->>>>>>> parent of b8a829d... saas done
-}
 
 @media only screen and (min-width: 700px) and (max-width: 1000px) {
   footer {
