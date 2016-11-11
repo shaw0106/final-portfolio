@@ -86,10 +86,11 @@ html, body {
 
 .img-lg {
   width: 100%;
-  padding: 70px 70px 70px 700px;
+  padding: 70px 20px 100px 500px;
 }
 
 .vid {
+  display: block;
   padding: 50px 300px 66px 100px;
 }
 .vid-sm {
@@ -188,13 +189,7 @@ a:hover {
 
 .all-right {
   width: 60%;
-  padding-bottom: 150px;
-}
-
-.grid {
-  padding: 60px;
-  margin: 0 auto;
-  max-width: 1200px;
+  padding: 70px 10px 150px 20px;
 }
 
 .grid--item {
@@ -365,10 +360,6 @@ footer {
    background: turquoise;
 }
 
-.all-left {
-  clear: both;
-}
-
 .all-right {
   width: 100%;
   position: relative;
@@ -477,11 +468,21 @@ footer {
 
   .all-right {
     width: 100%;
-    position: absolute;
-    float: left;
-    top: 890px;
-    left: 10px;
-    padding-bottom: 20px;
+    position: relative;;
+    padding: 70px 10px 20px 20px;
+  }
+
+  .button1 {
+    left: -50px;
+    margin-top: 13px;
+  }
+
+  .vid {
+    display: none;
+  }
+  .vid-sm {
+    display: block;
+    padding: 10px 10px 70px 20px;
   }
 }
 
